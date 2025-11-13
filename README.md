@@ -92,45 +92,5 @@ To cite this Methodological Note, please use the following reference:
 > Inter-American Development Bank and IDB Invest. IDB And IDB Invest Coronavirus Impact Dashboard Methodological Note. Washington, DC: Inter-American Development Bank, 2020.https://iadb-comms.org/coronavirus-impact-dashboard-methodological-note.
 
 ## Team 
-
-Development Effectiveness Division Chiefs 
-
-- IDB: Carola Alvarez 
-
-- IDB Invest: Alessandro Maffioli 
-
-Technical Team Leaders 
-
-- IDB: Oscar Mitnik 
-
-- IDB Invest: Patricia Yañez-Pagans 
-
-Technical Team 
-
-- IDB: João Carabetta, Daniel Martinez, Edgar Salgado, Beatrice Zimmermann, Sonia Mendizabal 
-
-- IDB Invest: Mattia Chiapello, Luciano Sanguino
-
-Communications Team 
-
-- IDB: Lina Botero, Andrés Gómez-Peña 
-
-- IDB Invest: Norah Sullivan 
-
-IT Team 
-
-- IDB: eBFactory  
-
-- IDB Invest: Maiquel Sampaio de Melo 
-
-### License
-
-This work is licensed under a Creative Commons IGO 3.0 - see the [LICENSE.md](LICENSE.md) file for details.
-
-### Acknowledgments
-
-* This README was adapted from [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* The structure of this repository was adapted from [*Fast Project Templates*](https://github.com/JoaoCarabetta/project-templates)
-
-### About
-This repository reflects the code being used in the most current version of the dashboard at the *Traffic Congestion* tab.
+Aryan Dixit
+.
