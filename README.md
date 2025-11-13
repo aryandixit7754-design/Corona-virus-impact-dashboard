@@ -1,10 +1,5 @@
 # Coronavirus Traffic Congestion Impact in Latin America with Waze Data
 
-Follow  the impact of Coronavirus outbreak in Latin America in **real time**. 
-
-![landing_dash](https://github.com/EL-BID/Covid-19-Traffic-Impact-Dashboard/blob/master/imgs/dashboard_landing.png?raw=true)
-Go to dashboard: [ENGLISH](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)
-[ESPAÑOL](https://www.iadb.org/es/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)
 
 The Coronavirus Impact Dashboard has been created by me to track in real
 time the impact of the coronavirus (also known as COVID-19) on the countries of Latin America
