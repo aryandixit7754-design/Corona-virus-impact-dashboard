@@ -6,7 +6,7 @@ Follow  the impact of Coronavirus outbreak in Latin America in **real time**.
 Go to dashboard: [ENGLISH](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)
 [ESPAÑOL](https://www.iadb.org/es/topics-effectiveness-improving-lives/coronavirus-impact-dashboard)
 
-The Coronavirus Impact Dashboard has been created by the IDB and IDB Invest to track in real
+The Coronavirus Impact Dashboard has been created by me to track in real
 time the impact of the coronavirus (also known as COVID-19) on the countries of Latin America
 and the Caribbean. The dashboard aims to track a range of variables of interest in order to provide
 policymakers, epidemiologists, and the general public in the region with measures of the impact
@@ -14,9 +14,6 @@ that “social distancing” restrictions and recommendations due to the coronav
 having on the population and on economic activity.
 
 
-:warning: All the data in the daily and weekly series has been replaced by a new version of the series, because duplicated data was found for specific regions and dates in the data published in 2020. This problem has now been fixed, but **there could be differences between the data in this version of the Dashboard and prior version**. Data in the latest update of the Dashboard is available only until July 11th, 2021 as internat changes are being made to the process of downloading and storing data. Updated information will become available in Octobre 2021. 
-
-:warning: In addition, due to unexpected difficulties with downloading and re-processing the data, right now we are not providing TCI changes for the countries of Brazil and Mexico (but we do provide their cities). This will be solved in the next few weeks. 
 
 
 ## Use the data
@@ -29,7 +26,7 @@ But first, make sure you understand the data:
 
 The latest version of the data is easily available through the methods below.
 
-:warning: By mistake, traffic congestion information for Fortaleza (Brazil) was being reported as Natal (Brazil). This has been solved, and now "Natal" reflects the traffic congestion for that metropolitan area, and Fortaleza data is reported under "Fortaleza".
+
 
 ### Download Manually
 
@@ -68,29 +65,7 @@ import delimited using "[metadata]", clear
 import delimited using "[metadata]", clear
 ```
 
-## Waze for Cities Partners
+#team
 
-You can find materials prepared for Waze for Cities Partnership Partners [here](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard/tree/master/waze_for_cities).
-
-- [TCI Percentage Variation Tutorial](http://tiny.cc/idb-tci-bigquery-tutorial)
-
-## Ask for a specific region
-
-The way that the pipeline was implemented allow us to query any region in Latin
-America. To ask for an specific region(s) of interest please submit an issue.
-
-[Click here to request regions](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impacto-Dashboard/issues/new?assignees=JoaoCarabetta&labels=enhancement&template=region-request.md&title=%5BRegion+Request%5D+%3Cadd+short+description%3E)
-
-## Don't forget to cite us :)
-
-To cite the IDB and IDB Invest Coronavirus Impact Dashboard, please use the following reference:
-
-> Inter-American Development Bank and IDB Invest. "IDB And IDB Invest Coronavirus Impact Dashboard". 2020. Inter-American Development Bank.www.iadb.org/coronavirus-impact-dashboard
-
-To cite this Methodological Note, please use the following reference: 
-
-> Inter-American Development Bank and IDB Invest. IDB And IDB Invest Coronavirus Impact Dashboard Methodological Note. Washington, DC: Inter-American Development Bank, 2020.https://iadb-comms.org/coronavirus-impact-dashboard-methodological-note.
-
-## Team 
 Aryan Dixit
 .
